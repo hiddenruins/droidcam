@@ -85,7 +85,7 @@ void * v4l2l_vzalloc (unsigned long size) {
 # define VFL_TYPE_VIDEO VFL_TYPE_GRABBER
 #endif
 
-#define V4L2LOOPBACK_VERSION_CODE KERNEL_VERSION(0,6,4)
+#define V4L2LOOPBACK_VERSION_CODE KERNEL_VERSION(0,6,5)
 
 
 #define DEBUG 0
